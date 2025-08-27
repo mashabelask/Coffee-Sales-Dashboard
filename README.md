@@ -1,6 +1,6 @@
-# ☕ Coffee Sales Dashboard (Power BI)
+# Coffee Sales Dashboard (Power BI)
 
-## 📊 Project Overview
+## Project Overview
 This project presents a **Coffee Sales Dashboard** built in **Power BI**.  
 The goal of this dashboard is to track sales performance, identify top-selling coffee products, and analyze buying patterns across different times and days.  
 
@@ -8,7 +8,7 @@ The dashboard transforms raw sales data into actionable insights that could be u
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 - **Total Revenue:** 112.25K  
 - **Total Units Sold:** 3,547 coffees  
 - **Best-Selling Product:** Latte (27K in sales)  
@@ -19,12 +19,13 @@ The dashboard transforms raw sales data into actionable insights that could be u
 
 ---
 
-## 🖼️ Dashboard Preview
-*(Insert screenshots of your Power BI dashboard here — or a GIF if you want to show interactivity)*  
+## Dashboard Preview
+ <img width="1191" height="682" alt="Screenshot 2025-08-27 143121" src="https://github.com/user-attachments/assets/a5d2c780-dbd7-464a-a318-0538ea37d433" />
+
 
 ---
 
-## ⚙️ Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 - **Power BI Desktop**  
   - Data modeling  
   - DAX measures  
@@ -36,4 +37,15 @@ The dashboard transforms raw sales data into actionable insights that could be u
 
 ---
 
-## 📂 Repository Structure
+## How to Use
+1. Clone this repository  
+2. Open the `.pbix` file in **Power BI Desktop**  
+3. Explore the dashboard interactively (filters, drill-downs, and tooltips)  
+
+---
+
+## Author
+**Shon Mashabela**  
+📧 [https://www.linkedin.com/in/shon-mashabela-646514372/] 
+
+
